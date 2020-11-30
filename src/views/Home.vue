@@ -25,6 +25,7 @@ export default {
   },
   mounted() {
     Toast.fail('成功文案')
+    console.log(1)
   },
   data() {
     return {
